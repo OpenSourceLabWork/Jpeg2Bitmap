@@ -1,0 +1,9 @@
+c:\users\muhammad\documents\visual studio 2012\Projects\Jpeg2Bitmap\Jpeg2Bitmap\bin\Debug\Jpeg2Bitmap.exe.config
+c:\users\muhammad\documents\visual studio 2012\Projects\Jpeg2Bitmap\Jpeg2Bitmap\bin\Debug\Jpeg2Bitmap.exe
+c:\users\muhammad\documents\visual studio 2012\Projects\Jpeg2Bitmap\Jpeg2Bitmap\bin\Debug\Jpeg2Bitmap.pdb
+c:\users\muhammad\documents\visual studio 2012\Projects\Jpeg2Bitmap\Jpeg2Bitmap\obj\Debug\Jpeg2Bitmap.csprojResolveAssemblyReference.cache
+c:\users\muhammad\documents\visual studio 2012\Projects\Jpeg2Bitmap\Jpeg2Bitmap\obj\Debug\Jpeg2Bitmap.Form1.resources
+c:\users\muhammad\documents\visual studio 2012\Projects\Jpeg2Bitmap\Jpeg2Bitmap\obj\Debug\Jpeg2Bitmap.Properties.Resources.resources
+c:\users\muhammad\documents\visual studio 2012\Projects\Jpeg2Bitmap\Jpeg2Bitmap\obj\Debug\Jpeg2Bitmap.csproj.GenerateResource.Cache
+c:\users\muhammad\documents\visual studio 2012\Projects\Jpeg2Bitmap\Jpeg2Bitmap\obj\Debug\Jpeg2Bitmap.exe
+c:\users\muhammad\documents\visual studio 2012\Projects\Jpeg2Bitmap\Jpeg2Bitmap\obj\Debug\Jpeg2Bitmap.pdb
